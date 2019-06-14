@@ -1,8 +1,8 @@
 public class Fibonachi {
     public static void main(String[] args) {
 
-        int[] arr = new int[100];
-        int step = 20;
+        int[] arr = new int[80];
+        int step = 30;
 
         arr[0] = 0;
         arr[1] = 1;

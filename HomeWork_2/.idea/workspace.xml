@@ -186,6 +186,7 @@
     <session id="-447460068">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -202,23 +203,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Fibonachi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -291,7 +292,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../HomeWork_3/src/Car/CarRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -316,7 +317,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/Fibonachi.java" />
         <option value="$PROJECT_DIR$/src/Bashnya_X.java" />
         <option value="$PROJECT_DIR$/src/Xanoi.java" />
         <option value="$PROJECT_DIR$/src/Recursia.java" />
@@ -324,6 +324,7 @@
         <option value="$PROJECT_DIR$/src/HomeWork3/Summa/Recursia.java" />
         <option value="$PROJECT_DIR$/src/Car/CarRunner.java" />
         <option value="$PROJECT_DIR$/../HomeWork3/BooksRunner.java" />
+        <option value="$PROJECT_DIR$/src/Fibonachi.java" />
       </list>
     </option>
   </component>
@@ -333,7 +334,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
@@ -386,7 +387,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560519409500" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560521027490" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -400,7 +401,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CarRunner">
+  <component name="RunManager" selected="Application.Fibonachi">
     <configuration name="Bashnya_X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bashnya_X" />
       <module name="HomeWork_2" />
@@ -455,11 +456,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonachi" />
         <item itemvalue="Application.CarRunner" />
         <item itemvalue="Application.BooksRunner" />
         <item itemvalue="Application.Bashnya_X" />
         <item itemvalue="Application.Recursia" />
-        <item itemvalue="Application.Fibonachi" />
       </list>
     </recent_temporary>
   </component>
@@ -476,15 +477,15 @@
       <workItem from="1540232850912" duration="7222000" />
       <workItem from="1540244758681" duration="8212000" />
       <workItem from="1540259543146" duration="167000" />
-      <workItem from="1560518505372" duration="917000" />
+      <workItem from="1560518505372" duration="2045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16518000" />
+    <option name="totallyTimeSpent" value="17646000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
@@ -496,7 +497,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32104123" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32104123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -529,13 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fibonachi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -595,6 +589,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="67" lean-forward="true" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fibonachi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
